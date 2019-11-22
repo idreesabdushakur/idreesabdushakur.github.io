@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Art</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+    <link rel="icon" href="favicon.png" type="image/png" width="32" height="32"></link>
+  
+  <center>
+    <a href="http://www.abdushakur.com"><img src="ialogo.svg" style=width="930.75" height="293.25" text-decoration="none"></a>
+  </center>
+  
+  </head>
+
+<body>
+
+  <br />
+  <br />
+
+  <center>
+          <a style="text-decoration:none" href="http://www.abdushakur.com/theartist.html">The Artist</a> | 
+          <a style="text-decoration:none" href="http://www.abdushakur.com/thebook.html">The Book of Patience</a> | 
+          <a style="text-decoration:none" href="http://www.abdushakur.com/art.html">Art</a> | 
+          <a style="text-decoration:none" href="http://www.abdushakur.com/writing.html">Writing</a> | 
+          <a style="text-decoration:none" href="http://www.abdushakur.com/contact.html">Contact</a>
+  </center>
+
+  <br />
+  <br />
+
+  <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hCn1gO_CWGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+
+  <br />
+  <br />
+
+  <br />
+  <br />
+    <center>
+    <a style="text-decoration:none" href="https://www.instagram.com/thebookofpatience"><img src="instagram.svg" width="34" height="34" title="Instagram" alt="Instagram"></a>
+  </center>
+  <br />
+  <br />
+
+  <center>
+    <a style="text-decoration:none" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="hijri.png" width="116.75" height="54.125"></a>
+  </center>
+
+</body>
+</html>
